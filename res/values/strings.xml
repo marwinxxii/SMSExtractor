@@ -7,4 +7,5 @@
     <string name="sendto">Send to</string>
     <string name="error_file">Couldn\'t save SMS to file</string>
     <string name="success">Look for your SMS in downloads folder</string>
+    <string name="help">Extract to downloads folder on SD card or send to any available application.</string>
 </resources>
