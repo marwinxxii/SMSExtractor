@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMSExtractor</string>
+    <string name="hint_number">Phone number of SMS author</string>
+    <string name="extract">Extract</string>
+    <string name="extracted_sms">Extracted SMS</string>
+    <string name="select_target">Select target</string>
+    <string name="sendto">Send to</string>
+    <string name="error_file">Couldn\'t save SMS to file</string>
+    <string name="success">Look for your SMS in downloads folder</string>
+</resources>
